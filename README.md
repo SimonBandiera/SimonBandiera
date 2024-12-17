@@ -1,4 +1,29 @@
-## Hi there 👋
+# Hey 👋, I'm Simon
+
+👨‍🎓 Student at Epitech and currently abord at the University of Kent for an MSc in artificial intelligence 
+
+---
+
+## 👨‍💻 Programming Languages & technologies
+
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](. ) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+
+## 🖥️  Frameworks
+
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](. ) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](. )  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)  [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+
+## ⚡️About 
+
+- 🥖 french 
+- 🔭 I'm currently working on [JS_CMP](https://github.com/JS-CMP)
+- 🌱 I'm specializing in machine learning and artificial intelligence 
+- ℹ️ To learn more, check my [portfolio](https://sbandiera.dev)
+
+# 📫 Want to talk ? 
+
+Send me an email <simon.bandiera12@gmail.com> !
+
+
 
 <!--
 **SimonBandiera/SimonBandiera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
