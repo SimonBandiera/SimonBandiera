@@ -1,6 +1,6 @@
 # Hey 👋, I'm Simon
 
-👨‍🎓 Student at Epitech and currently abord at the University of Kent for an MSc in artificial intelligence 
+👨‍🎓 Student at Epitech and currently abroad at the University of Kent for an MSc in artificial intelligence 
 
 ---
 
