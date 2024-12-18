@@ -17,7 +17,7 @@
 - 🥖 french 
 - 🔭 I'm currently working on [JS_CMP](https://github.com/JS-CMP)
 - 🌱 I'm specializing in machine learning and artificial intelligence 
-- ℹ️ To learn more, check my [portfolio](https://sbandiera.dev)
+- ℹ️ To learn more about me, check my [portfolio](https://sbandiera.dev)
 
 # 📫 Want to talk ? 
 
