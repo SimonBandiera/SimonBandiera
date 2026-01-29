@@ -1,6 +1,6 @@
 # Hey 👋, I'm Simon
 
-👨‍🎓 Student at Epitech and currently abroad at the University of Kent for an MSc in artificial intelligence 
+Working full time @ Trackap as the Firmware developer 
 
 ---
 
